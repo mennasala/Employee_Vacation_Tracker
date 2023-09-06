@@ -30,3 +30,13 @@ This reposatory describes the APIs that will be used to create and manage employ
                 •	Delete a vacation leave
   ## Authentication:
       The APIs will be authenticated using OAuth 2.0 with two different user roles: employee and admin. Employees will be able to use their employee credentials to access their own vacation leaves, while admins will be able to access all vacation leaves.
+
+
+## How to run the project?
+    1- download source code from my reposatory
+    2- open code with visual studio code
+    3- open new terminal 
+    4- write in the terminal ( npm i ) to install the nodemodules folder
+    5- then write in the terminal ( node index.js ) to run the project
+    6- download the Postman Collection from my reposatory here to test the APIs on Postman
+    7- open Postman and upload the collections you have downloaded from here to test the APIs
